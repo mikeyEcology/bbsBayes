@@ -9,7 +9,6 @@ Authors@R: c(person("Brandon P.M.", "Edwards", role = c("aut", "cre"),
                       email = "adam.smith2@canada.ca"))
 Imports:
   progress,
-  jagsUI,
   ggrepel,
   geofacet,
   ggplot2,
