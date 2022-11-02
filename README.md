@@ -28,8 +28,7 @@ Option 2: Less-stable development version
 ``` {.r}
 # To install the development version from GitHub:
 install.packages("devtools")
-library(devtools)
-devtools::install_github("BrandonEdwards/bbsBayes")
+devtools::install_github("mikeyEcology/bbsBayes")
 ```
 
 ## Basic Status and Trend Analyses
